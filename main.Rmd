@@ -1,9 +1,10 @@
 ---
-title: "TestGit"
+title: "Untitled"
 author: "Dries Reynders"
 date: "23 juni 2016"
 output: word_document
 ---
+
 
 This is just a tiny document to illustrate Git with RStudio. The complete illustration contains:
 
